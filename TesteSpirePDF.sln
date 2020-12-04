@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteSpirePDF", "TesteSpirePDF\TesteSpirePDF.csproj", "{62372A7D-BD60-472B-8CB0-BF0D63FBDB24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62372A7D-BD60-472B-8CB0-BF0D63FBDB24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62372A7D-BD60-472B-8CB0-BF0D63FBDB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62372A7D-BD60-472B-8CB0-BF0D63FBDB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62372A7D-BD60-472B-8CB0-BF0D63FBDB24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAA403E8-8895-4425-88F5-9FFDDB0749BF}
+	EndGlobalSection
+EndGlobal
